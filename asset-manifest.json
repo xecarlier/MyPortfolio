@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/MyPortfolio/static/css/main.d97da9af.css",
+    "main.js": "/MyPortfolio/static/js/main.92ad57ca.js",
+    "static/js/787.fb771931.chunk.js": "/MyPortfolio/static/js/787.fb771931.chunk.js",
+    "static/media/banner-bg2.png": "/MyPortfolio/static/media/banner-bg2.c8e8d6d8f2220f93fa25.png",
+    "static/media/color-sharp.png": "/MyPortfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/MyPortfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/CentraNo2-Bold.ttf": "/MyPortfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/MyPortfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/MyPortfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/MyPortfolio/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/project-img2.png": "/MyPortfolio/static/media/project-img2.2e52097c417f9f1134b0.png",
+    "static/media/project-img3.png": "/MyPortfolio/static/media/project-img3.675b30d2f975a1bc1d09.png",
+    "static/media/contact-img.svg": "/MyPortfolio/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/revicons.eot": "/MyPortfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/MyPortfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/MyPortfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/meter2.svg": "/MyPortfolio/static/media/meter2.1b8f416eccd1ee162218b8528a1c5cdc.svg",
+    "static/media/meter1.svg": "/MyPortfolio/static/media/meter1.c4085ff859afbd8488e9da47d4953850.svg",
+    "static/media/meter3.svg": "/MyPortfolio/static/media/meter3.2201f7e4df22bc4b08180210474f28cc.svg",
+    "static/media/logo.svg": "/MyPortfolio/static/media/logo.eaf3c0bc058e0ed6471ba20dc0af6da2.svg",
+    "static/media/itch-io.svg": "/MyPortfolio/static/media/itch-io.a69b2b47c5f1bd52f8dcec10d7da578b.svg",
+    "static/media/github-icon.svg": "/MyPortfolio/static/media/github-icon.f28350fefce6be5835ddf713b74f9e41.svg",
+    "index.html": "/MyPortfolio/index.html",
+    "static/media/nav-icon1.svg": "/MyPortfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/artstation-svgrepo-com.svg": "/MyPortfolio/static/media/artstation-svgrepo-com.183d72f2abff845594c0edca7832fa9d.svg",
+    "static/media/arrow2.svg": "/MyPortfolio/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
+    "static/media/arrow1.svg": "/MyPortfolio/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
+    "main.d97da9af.css.map": "/MyPortfolio/static/css/main.d97da9af.css.map",
+    "main.92ad57ca.js.map": "/MyPortfolio/static/js/main.92ad57ca.js.map",
+    "787.fb771931.chunk.js.map": "/MyPortfolio/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d97da9af.css",
+    "static/js/main.92ad57ca.js"
+  ]
+}
