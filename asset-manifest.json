@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MyPortfolio/static/css/main.d97da9af.css",
-    "main.js": "/MyPortfolio/static/js/main.92ad57ca.js",
+    "main.css": "/MyPortfolio/static/css/main.877cb5a0.css",
+    "main.js": "/MyPortfolio/static/js/main.021e0b81.js",
     "static/js/787.fb771931.chunk.js": "/MyPortfolio/static/js/787.fb771931.chunk.js",
     "static/media/banner-bg2.png": "/MyPortfolio/static/media/banner-bg2.c8e8d6d8f2220f93fa25.png",
     "static/media/color-sharp.png": "/MyPortfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
@@ -27,12 +27,12 @@
     "static/media/artstation-svgrepo-com.svg": "/MyPortfolio/static/media/artstation-svgrepo-com.183d72f2abff845594c0edca7832fa9d.svg",
     "static/media/arrow2.svg": "/MyPortfolio/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/MyPortfolio/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
-    "main.d97da9af.css.map": "/MyPortfolio/static/css/main.d97da9af.css.map",
-    "main.92ad57ca.js.map": "/MyPortfolio/static/js/main.92ad57ca.js.map",
+    "main.877cb5a0.css.map": "/MyPortfolio/static/css/main.877cb5a0.css.map",
+    "main.021e0b81.js.map": "/MyPortfolio/static/js/main.021e0b81.js.map",
     "787.fb771931.chunk.js.map": "/MyPortfolio/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d97da9af.css",
-    "static/js/main.92ad57ca.js"
+    "static/css/main.877cb5a0.css",
+    "static/js/main.021e0b81.js"
   ]
 }
