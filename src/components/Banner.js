@@ -66,7 +66,7 @@ export const Banner = () => {
           <Col xs={12} md={6} xl={7}>
             <TrackVisibility>
               {({ isVisible }) =>
-              <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
+              <div className={isVisible ? "animate__animated animate__fadeIn" : "animate__animated animate__fadeIn"}>
                 <span className="tagline">Xavier's Portfolio</span>
                 <h1>{`Hello! I'm a`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Game Developer", "Game Programmer" ]'><span className="wrap">{text}</span></span></h1>
                   <p>I'm a computer science graduate with extensive experience writing code and designing technology-based solutions. I'm very passionate for gaming and game development. I hope to be involved in projects where I can grow and acquire experience in the industry. I'm adept at working effectively under pressure in deadline-driven and fastpaced settings with strong organizational and problem-solving skills.</p>
