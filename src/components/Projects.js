@@ -2,7 +2,7 @@ import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ReactPhotoCollage } from "react-photo-collage";
 import { ProjectCard } from "./ProjectCard";
 import projImg1 from "../assets/img/cover_image.png";
-import projImg2 from "../assets/img/project-img2.png";
+import projImg2 from "../assets/img/TetraCat-cover.png";
 import projImg3 from "../assets/img/project-img3.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
@@ -16,6 +16,12 @@ export const Projects = () => {
       description: "Rogue-like dungeon crawler",
       imgUrl: projImg1,
       url: "https://xecarlier.itch.io/flux-fortress"
+    },
+    {
+      title: "Tetra Pets",
+      description: "Cat & Dog themed tetris clone",
+      imgUrl: projImg2,
+      url: "https://xecarlier.itch.io/tetrapets"
     }
   ];
 
